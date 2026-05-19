@@ -1,0 +1,15 @@
+C:\Learning\photo-app\Photo.Application\bin\Debug\net10.0\Photo.Application.deps.json
+C:\Learning\photo-app\Photo.Application\bin\Debug\net10.0\Photo.Application.dll
+C:\Learning\photo-app\Photo.Application\bin\Debug\net10.0\Photo.Application.pdb
+C:\Learning\photo-app\Photo.Application\bin\Debug\net10.0\Photo.Domain.dll
+C:\Learning\photo-app\Photo.Application\bin\Debug\net10.0\Photo.Domain.pdb
+C:\Learning\photo-app\Photo.Application\obj\Debug\net10.0\Photo.Application.csproj.AssemblyReference.cache
+C:\Learning\photo-app\Photo.Application\obj\Debug\net10.0\Photo.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Learning\photo-app\Photo.Application\obj\Debug\net10.0\Photo.Application.AssemblyInfoInputs.cache
+C:\Learning\photo-app\Photo.Application\obj\Debug\net10.0\Photo.Application.AssemblyInfo.cs
+C:\Learning\photo-app\Photo.Application\obj\Debug\net10.0\Photo.Application.csproj.CoreCompileInputs.cache
+C:\Learning\photo-app\Photo.Application\obj\Debug\net10.0\Photo.Ap.E2F8483A.Up2Date
+C:\Learning\photo-app\Photo.Application\obj\Debug\net10.0\Photo.Application.dll
+C:\Learning\photo-app\Photo.Application\obj\Debug\net10.0\refint\Photo.Application.dll
+C:\Learning\photo-app\Photo.Application\obj\Debug\net10.0\Photo.Application.pdb
+C:\Learning\photo-app\Photo.Application\obj\Debug\net10.0\ref\Photo.Application.dll

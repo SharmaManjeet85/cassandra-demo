@@ -1,0 +1,8 @@
+<Solution>
+  <Project Path="Photo.Api/Photo.Api.csproj" />
+  <Project Path="Photo.AppHost/Photo.AppHost.csproj" />
+  <Project Path="Photo.Application/Photo.Application.csproj" />
+  <Project Path="Photo.Domain/Photo.Domain.csproj" />
+  <Project Path="Photo.Infrastructure/Photo.Infrastructure.csproj" />
+  <Project Path="Photo.ServiceDefaults/Photo.ServiceDefaults.csproj" />
+</Solution>

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "hBg33gJLVA0=",
+  "success": true,
+  "projectFilePath": "C:\\Learning\\photo-app\\Photo.Domain\\Photo.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DELL\\.nuget\\packages\\microsoft.netcore.app.ref\\10.0.3\\microsoft.netcore.app.ref.10.0.3.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\10.0.3\\microsoft.windowsdesktop.app.ref.10.0.3.nupkg.sha512",
+    "C:\\Users\\DELL\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\10.0.3\\microsoft.aspnetcore.app.ref.10.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

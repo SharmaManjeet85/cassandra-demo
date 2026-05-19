@@ -1,0 +1,12 @@
+C:\Learning\photo-app\Photo.ServiceDefaults\bin\Debug\net10.0\Photo.ServiceDefaults.deps.json
+C:\Learning\photo-app\Photo.ServiceDefaults\bin\Debug\net10.0\Photo.ServiceDefaults.dll
+C:\Learning\photo-app\Photo.ServiceDefaults\bin\Debug\net10.0\Photo.ServiceDefaults.pdb
+C:\Learning\photo-app\Photo.ServiceDefaults\obj\Debug\net10.0\Photo.ServiceDefaults.csproj.AssemblyReference.cache
+C:\Learning\photo-app\Photo.ServiceDefaults\obj\Debug\net10.0\Photo.ServiceDefaults.GeneratedMSBuildEditorConfig.editorconfig
+C:\Learning\photo-app\Photo.ServiceDefaults\obj\Debug\net10.0\Photo.ServiceDefaults.AssemblyInfoInputs.cache
+C:\Learning\photo-app\Photo.ServiceDefaults\obj\Debug\net10.0\Photo.ServiceDefaults.AssemblyInfo.cs
+C:\Learning\photo-app\Photo.ServiceDefaults\obj\Debug\net10.0\Photo.ServiceDefaults.csproj.CoreCompileInputs.cache
+C:\Learning\photo-app\Photo.ServiceDefaults\obj\Debug\net10.0\Photo.ServiceDefaults.dll
+C:\Learning\photo-app\Photo.ServiceDefaults\obj\Debug\net10.0\refint\Photo.ServiceDefaults.dll
+C:\Learning\photo-app\Photo.ServiceDefaults\obj\Debug\net10.0\Photo.ServiceDefaults.pdb
+C:\Learning\photo-app\Photo.ServiceDefaults\obj\Debug\net10.0\ref\Photo.ServiceDefaults.dll

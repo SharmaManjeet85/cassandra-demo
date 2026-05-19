@@ -1,0 +1,13 @@
+@Photo.Api_HostAddress = http://localhost:5148
+
+#if (EnableOpenAPI)
+GET {{Photo.Api_HostAddress}}/openapi/v1.json
+Accept: application/json
+
+###
+#endif
+
+GET {{Photo.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

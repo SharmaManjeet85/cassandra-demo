@@ -1,0 +1,11 @@
+C:\Learning\photo-app\Photo.Domain\bin\Debug\net10.0\Photo.Domain.deps.json
+C:\Learning\photo-app\Photo.Domain\bin\Debug\net10.0\Photo.Domain.dll
+C:\Learning\photo-app\Photo.Domain\bin\Debug\net10.0\Photo.Domain.pdb
+C:\Learning\photo-app\Photo.Domain\obj\Debug\net10.0\Photo.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Learning\photo-app\Photo.Domain\obj\Debug\net10.0\Photo.Domain.AssemblyInfoInputs.cache
+C:\Learning\photo-app\Photo.Domain\obj\Debug\net10.0\Photo.Domain.AssemblyInfo.cs
+C:\Learning\photo-app\Photo.Domain\obj\Debug\net10.0\Photo.Domain.csproj.CoreCompileInputs.cache
+C:\Learning\photo-app\Photo.Domain\obj\Debug\net10.0\Photo.Domain.dll
+C:\Learning\photo-app\Photo.Domain\obj\Debug\net10.0\refint\Photo.Domain.dll
+C:\Learning\photo-app\Photo.Domain\obj\Debug\net10.0\Photo.Domain.pdb
+C:\Learning\photo-app\Photo.Domain\obj\Debug\net10.0\ref\Photo.Domain.dll
