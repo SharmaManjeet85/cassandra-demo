@@ -10,3 +10,4 @@ C:\Learning\photo-app\Photo.ServiceDefaults\obj\Debug\net10.0\Photo.ServiceDefau
 C:\Learning\photo-app\Photo.ServiceDefaults\obj\Debug\net10.0\refint\Photo.ServiceDefaults.dll
 C:\Learning\photo-app\Photo.ServiceDefaults\obj\Debug\net10.0\Photo.ServiceDefaults.pdb
 C:\Learning\photo-app\Photo.ServiceDefaults\obj\Debug\net10.0\ref\Photo.ServiceDefaults.dll
+C:\Learning\photo-app\Photo.ServiceDefaults\obj\Debug\net10.0\Photo.ServiceDefaults.sourcelink.json

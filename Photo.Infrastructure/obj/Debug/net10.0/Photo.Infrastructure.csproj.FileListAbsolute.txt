@@ -15,3 +15,4 @@ C:\Learning\photo-app\Photo.Infrastructure\obj\Debug\net10.0\Photo.Infrastructur
 C:\Learning\photo-app\Photo.Infrastructure\obj\Debug\net10.0\refint\Photo.Infrastructure.dll
 C:\Learning\photo-app\Photo.Infrastructure\obj\Debug\net10.0\Photo.Infrastructure.pdb
 C:\Learning\photo-app\Photo.Infrastructure\obj\Debug\net10.0\ref\Photo.Infrastructure.dll
+C:\Learning\photo-app\Photo.Infrastructure\obj\Debug\net10.0\Photo.Infrastructure.sourcelink.json

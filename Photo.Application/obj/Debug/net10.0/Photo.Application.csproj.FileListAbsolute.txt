@@ -13,3 +13,4 @@ C:\Learning\photo-app\Photo.Application\obj\Debug\net10.0\Photo.Application.dll
 C:\Learning\photo-app\Photo.Application\obj\Debug\net10.0\refint\Photo.Application.dll
 C:\Learning\photo-app\Photo.Application\obj\Debug\net10.0\Photo.Application.pdb
 C:\Learning\photo-app\Photo.Application\obj\Debug\net10.0\ref\Photo.Application.dll
+C:\Learning\photo-app\Photo.Application\obj\Debug\net10.0\Photo.Application.sourcelink.json

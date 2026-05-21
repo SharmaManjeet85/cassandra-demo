@@ -9,3 +9,4 @@ C:\Learning\photo-app\Photo.Domain\obj\Debug\net10.0\Photo.Domain.dll
 C:\Learning\photo-app\Photo.Domain\obj\Debug\net10.0\refint\Photo.Domain.dll
 C:\Learning\photo-app\Photo.Domain\obj\Debug\net10.0\Photo.Domain.pdb
 C:\Learning\photo-app\Photo.Domain\obj\Debug\net10.0\ref\Photo.Domain.dll
+C:\Learning\photo-app\Photo.Domain\obj\Debug\net10.0\Photo.Domain.sourcelink.json

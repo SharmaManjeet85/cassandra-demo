@@ -34,6 +34,20 @@ builder.Services
         failureStatus: null,
         tags: new[] { "db", "cassandra" });
 
+builder.Services.AddCors(options =>
+{
+    options.AddPolicy(
+        "frontend",
+        policy =>
+        {
+            policy
+                .WithOrigins(
+                    "http://localhost:5173")
+                .AllowAnyHeader()
+                .AllowAnyMethod();
+        });
+});        
+
 builder.Services.AddControllers();
 
 builder.Services.AddEndpointsApiExplorer();
@@ -54,7 +68,7 @@ builder.Services.AddHostedService<CassandraStartupService>();
 
 var app = builder.Build();
 
-
+app.UseCors("frontend");
 app.UseMiddleware<CorrelationIdMiddleware>();
 app.UseSerilogRequestLogging();
 app.UseMiddleware<ExceptionMiddleware>();

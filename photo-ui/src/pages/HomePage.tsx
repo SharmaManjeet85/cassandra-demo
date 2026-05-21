@@ -1,13 +1,16 @@
+import MainLayout from '../layouts/MainLayout';
+
 export default function HomePage() {
   return (
-    <div className="p-8">
+    <MainLayout>
       <h1 className="text-3xl font-bold">
-        Photo App
+        Welcome to Photo App
       </h1>
 
       <p className="mt-4 text-gray-600">
-        Cassandra + .NET 10 + React
+        Distributed photo platform using
+        Cassandra and .NET 10
       </p>
-    </div>
+    </MainLayout>
   );
 }
