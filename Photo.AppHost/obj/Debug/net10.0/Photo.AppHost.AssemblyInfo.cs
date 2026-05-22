@@ -23,7 +23,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Photo.AppHost")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d3f03c35d930713c371fa0d964095d8c7bfc23b2")]
 [assembly: System.Reflection.AssemblyProductAttribute("Photo.AppHost")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Photo.AppHost")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

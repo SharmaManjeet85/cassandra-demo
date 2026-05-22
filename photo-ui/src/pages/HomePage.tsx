@@ -1,16 +1,60 @@
+import { useState } from 'react';
+
 import MainLayout from '../layouts/MainLayout';
 
+import PhotoCard from '../components/PhotoCard';
+
+import { usePhotos }
+  from '../hooks/usePhotos';
+
 export default function HomePage() {
+  const [userId, setUserId] =
+    useState('');
+
+  const {
+    data,
+    isLoading,
+  } = usePhotos(userId);
+
   return (
     <MainLayout>
-      <h1 className="text-3xl font-bold">
-        Welcome to Photo App
-      </h1>
+      <div className="mb-6">
+        <input
+          type="text"
+          value={userId}
+          onChange={(e) =>
+            setUserId(e.target.value)
+          }
+          placeholder="Enter user id"
+          className="
+            border
+            rounded-lg
+            px-4
+            py-2
+            w-full
+            max-w-md
+          "
+        />
+      </div>
 
-      <p className="mt-4 text-gray-600">
-        Distributed photo platform using
-        Cassandra and .NET 10
-      </p>
+      {isLoading && (
+        <p>Loading photos...</p>
+      )}
+
+      <div className="
+        grid
+        grid-cols-1
+        md:grid-cols-2
+        lg:grid-cols-3
+        gap-6
+      ">
+        {data?.map((photo: any) => (
+          <PhotoCard
+            key={photo.id}
+            photo={photo}
+          />
+        ))}
+      </div>
     </MainLayout>
   );
 }

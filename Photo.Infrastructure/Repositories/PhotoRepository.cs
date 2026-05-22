@@ -48,9 +48,9 @@ public sealed class PhotoRepository : IPhotoRepository
             WHERE photo_id = ?");
 
         _getByUserId = _session.Prepare(@"
-            SELECT *
-            FROM photos_by_user
-            WHERE user_id = ?");
+        SELECT *
+        FROM photos_by_user
+        WHERE user_id = ?");
     }
 
     public async Task CreateAsync(

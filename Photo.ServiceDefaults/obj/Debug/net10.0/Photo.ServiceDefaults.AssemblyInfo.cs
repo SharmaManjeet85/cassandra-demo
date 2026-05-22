@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Photo.ServiceDefaults")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+97549194b6cb6d308561cea8569ecb08f77fbe67")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d3f03c35d930713c371fa0d964095d8c7bfc23b2")]
 [assembly: System.Reflection.AssemblyProductAttribute("Photo.ServiceDefaults")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Photo.ServiceDefaults")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
